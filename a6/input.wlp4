@@ -1,0 +1,30 @@
+wain(int a, int b) {
+      int xxx ;
+      int yyy;
+      if (x == y) { a = b; } else { c = d; }
+      while (a+b <= c*d) {}
+      a = b+1*(c%d-e/x);
+      c = 132;
+      return a + b;   // unhelpful comment about summing a and b
+   }
+
+int wain(int * a, int N){
+   int i = 0;
+   int j = 0;
+   int k = 0;
+   int sum = 0;
+   int n = 0;
+   int max = 0;
+   n = *(a);
+   //for (i=0;i<n;i++) {
+   while (i < n) { 
+      //for (j=0;j<n;j++) {
+      j = 0;
+      while (j < n) {
+         sum = 0;
+         //for (k=0;k<n;k++) {
+         k = 0;
+         while (k < n) {
+            //sum = sum + A[i,k] + B[k,j];
+            sum = sum + *(a+1+n*i+k) * *(a+1+n*n+n*k+j);
+            k = k + 1;

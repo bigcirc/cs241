@@ -1,0 +1,16 @@
+3
+BOF
+x
+EOF
+2
+S
+A
+S
+3
+S BOF A EOF
+A x
+A A x A
+S BOF A EOF
+ A A x A
+  A x
+  A x

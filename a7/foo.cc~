@@ -1,0 +1,14 @@
+#include <iostream>
+#include <fstream>
+using namespace std;
+int main(){
+  string STRING;
+  ifstream infile;
+  infile.open ("wlp4.lr1");
+  while(!infile.eof()) // To get you all the lines.
+    {
+      getline(infile,STRING); // Saves the line in STRING.
+      cout<<STRING<<endl; // Prints our STRING.
+    }
+  infile.close();
+}

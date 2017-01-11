@@ -1,0 +1,40 @@
+4
+cat
+dog
+iguana
+mouse
+6
+start
+cat
+dog
+iguana
+mouse
+else
+start
+1
+mouse
+20
+start cat cat
+start dog else
+start iguana else
+start mouse else
+else dog else
+else iguana else
+else mouse else
+else cat cat
+cat dog dog
+cat cat cat
+cat iguana cat
+cat mouse cat
+dog iguana iguana
+dog cat dog
+dog dog dog
+dog mouse dog
+iguana iguana iguana
+iguana mouse mouse
+iguana cat iguana
+iguana dog iguana
+mouse mouse mouse
+mouse cat mouse
+mouse dog mouse
+mouse iguana mouse

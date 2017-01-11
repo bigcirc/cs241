@@ -1,0 +1,10 @@
+
+int wain(int &x) {
+  int x = 2147483647;
+  int y = 2147483646;
+  int z = 2147483645;
+  int zz = wain(x, y, &*z);
+  y < = 5;
+  int xx > = y;
+  return wain;
+}

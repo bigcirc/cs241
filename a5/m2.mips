@@ -1,0 +1,10 @@
+cookie   10000002
+length         68
+clen           18
+0000000c       14
+00000010  3e00008
+00000014        0
+REL             c
+ESR            14 ghi
+ESD             c def
+ESD            10 abc

@@ -1,0 +1,17 @@
+int b(int a, int b) {
+  int *c = NULL;
+  int *d = NULL;
+  return a - b + (c-d);
+}
+int a(int a, int b) {
+  int *c = NULL;
+  return a + b;
+}
+int f(int a, int * b, int c) {
+  int A = 2;
+  return a + *b + c - A;
+}
+int wain (int *a, int b) {
+   int *c = NULL;
+   return b;
+}

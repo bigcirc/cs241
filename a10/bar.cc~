@@ -1,0 +1,209 @@
+#include <iostream>
+int foo40() {
+  int var = 16487;
+  return var * 2;
+}
+
+int foo39() {
+  int var = 15373;
+  return foo40() + var;
+}
+
+int foo38() {
+  int var = 10300;
+  return foo39() + var;
+}
+
+int foo37() {
+  int var = 13481;
+  return foo38() + var;
+}
+
+int foo36() {
+  int var = 24605;
+  return foo37() + var;
+}
+
+int foo35() {
+  int var = 5712;
+  return foo36() + var;
+}
+
+int foo34() {
+  int var = 6651;
+  return foo35() + var;
+}
+
+int foo33() {
+  int var = 25354;
+  return foo34() + var;
+}
+
+int foo32() {
+  int var = 17696;
+  return foo33() + var;
+}
+
+int foo31() {
+  int var = 23842;
+  return foo32() + var;
+}
+
+int foo30() {
+  int var = 177;
+  return foo31() + var;
+}
+
+int foo29() {
+  int var = 27042;
+  return foo30() + var;
+}
+
+int foo28() {
+  int var = 16504;
+  return foo29() + var;
+}
+
+int foo27() {
+  int var = 14898;
+  return foo28() + var;
+}
+
+int foo26() {
+  int var = 12290;
+  return foo27() + var;
+}
+
+int foo25() {
+  int var = 29630;
+  return foo26() + var;
+}
+
+int foo24() {
+  int var = 26278;
+  return foo25() + var;
+}
+
+int foo23() {
+  int var = 12146;
+  return foo24() + var;
+}
+
+int foo22() {
+  int var = 3953;
+  return foo23() + var;
+}
+
+int foo21() {
+  int var = 29026;
+  return foo22() + var;
+}
+
+int foo20() {
+  int var = 27425;
+  return foo21() + var;
+}
+
+int foo19() {
+  int var = 21244;
+  return foo20() + var;
+}
+
+int foo18() {
+  int var = 21561;
+  return foo19() + var;
+}
+
+int foo17() {
+  int var = 3095;
+  return foo18() + var;
+}
+
+int foo16() {
+  int var = 16977;
+  return foo17() + var;
+}
+
+int foo15() {
+  int var = 3027;
+  return foo16() + var;
+}
+
+int foo14() {
+  int var = 24689;
+  return foo15() + var;
+}
+
+int foo13() {
+  int var = 13805;
+  return foo14() + var;
+}
+
+int foo12() {
+  int var = 23354;
+  return foo13() + var;
+}
+
+int foo11() {
+  int var = 21729;
+  return foo12() + var;
+}
+
+int foo10() {
+  int var = 14386;
+  return foo11() + var;
+}
+
+int foo9() {
+  int var = 30412;
+  return foo10() + var;
+}
+
+int foo8() {
+  int var = 22191;
+  return foo9() + var;
+}
+
+int foo7() {
+  int var = 31639;
+  return foo8() + var;
+}
+
+int foo6() {
+  int var = 5116;
+  return foo7() + var;
+}
+
+int foo5() {
+  int var = 17498;
+  return foo6() + var;
+}
+
+int foo4() {
+  int var = 12434;
+  return foo5() + var;
+}
+
+int foo3() {
+  int var = 22414;
+  return foo4() + var;
+}
+
+int foo2() {
+  int var = 25910;
+  return foo3() + var;
+}
+
+int foo1() {
+  int var = 22289;
+  return foo2() + var;
+}
+
+int foo() {
+  return foo1();  
+}
+
+int main(){
+  std::cout << foo() << endl;
+  return foo();
+}

@@ -1,0 +1,5 @@
+cat foo.wlp4 | wlp4scan | wlp4parse | ./a.out
+java cs241.linkasm < foo.asm > output.merl
+linker output.merl print.merl | java cs241.merl 0 > final.mips
+java mips.array foo.mips
+

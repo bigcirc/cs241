@@ -1,0 +1,8 @@
+c: b: e:
+  .word 10
+a: d: .word 22
+
+.word 0x32
+.word 32
+
+f:

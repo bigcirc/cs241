@@ -1,0 +1,22 @@
+.import print
+.import init
+.import new
+.import delete
+lis $11
+.word 1
+lis $4
+.word 4
+sub $29, $30, $4
+sw $1, 0($29)
+sw $2, -4($29)
+sub $30, $30, $4
+sub $30, $30, $4
+add $2, $0, $0
+sw $31, -4($30)
+sub $30, $30, $4
+lis $9
+.word init
+jalr $9
+add $30, $30, $4
+lw $31, -4($30)
+jr $31

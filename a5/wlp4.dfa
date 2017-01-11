@@ -1,0 +1,311 @@
+80
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+(
+)
+{
+}
+=
+!
+>
+<
++
+-
+*
+/
+%
+,
+;
+[
+]
+&
+36
+zero
+start
+borrow
+ID
+NUM
+LPAREN
+RPAREN
+LBRACE
+RBRACE
+RETURN
+IF
+ELSE
+WHILE
+PRINTLN
+WAIN
+BECOMES
+INT
+EQ
+NE
+LT
+GT
+LE
+GE
+PLUS
+MINUS
+STAR
+SLASH
+PCT
+COMMA
+SEMI
+NEW
+DELETE
+LBRACK
+RBRACK
+AMP
+NULL
+start
+34
+zero
+ID
+NUM
+LPAREN
+RPAREN
+LBRACE
+RBRACE
+RETURN
+IF
+ELSE
+WHILE
+PRINTLN
+WAIN
+BECOMES
+INT
+EQ
+NE
+LT
+GT
+LE
+GE
+PLUS
+MINUS
+STAR
+SLASH
+PCT
+COMMA
+SEMI
+NEW
+DELETE
+LBRACK
+RBRACK
+AMP
+NULL
+156
+start 0 zero
+start 1 NUM
+start 2 NUM
+start 3 NUM
+start 4 NUM
+start 5 NUM
+start 6 NUM
+start 7 NUM
+start 8 NUM
+start 9 NUM
+NUM 0 NUM
+NUM 1 NUM
+NUM 2 NUM
+NUM 3 NUM
+NUM 4 NUM
+NUM 5 NUM
+NUM 6 NUM
+NUM 7 NUM
+NUM 8 NUM
+NUM 9 NUM
+start ( LPAREN
+start ) RPAREN
+start { LBRACE
+start } RBRACE
+start = BECOMES
+BECOMES = EQ
+start ! borrow
+borrow = NE
+start < LT
+start > GT
+LT = LE
+GT = GE
+start + PLUS
+start - MINUS
+start * STAR
+start / SLASH
+start % PCT
+start , COMMA
+start ; SEMI
+start [ LBRACK
+start ] RBRACK
+start & AMP
+start a ID
+start b ID
+start c ID
+start d ID
+start e ID
+start f ID
+start g ID
+start h ID
+start i ID
+start j ID
+start k ID
+start l ID
+start m ID
+start n ID
+start o ID
+start p ID
+start q ID
+start r ID
+start s ID
+start t ID
+start u ID
+start v ID
+start w ID
+start x ID
+start y ID
+start z ID
+start A ID
+start B ID
+start C ID
+start D ID
+start E ID
+start F ID
+start G ID
+start H ID
+start I ID
+start J ID
+start K ID
+start L ID
+start M ID
+start N ID
+start O ID
+start P ID
+start Q ID
+start R ID
+start S ID
+start T ID
+start U ID
+start V ID
+start W ID
+start X ID
+start Y ID
+start Z ID
+ID a ID
+ID b ID
+ID c ID
+ID d ID
+ID e ID
+ID f ID
+ID g ID
+ID h ID
+ID i ID
+ID j ID
+ID k ID
+ID l ID
+ID m ID
+ID n ID
+ID o ID
+ID p ID
+ID q ID
+ID r ID
+ID s ID
+ID t ID
+ID u ID
+ID v ID
+ID w ID
+ID x ID
+ID y ID
+ID z ID
+ID A ID
+ID B ID
+ID C ID
+ID D ID
+ID E ID
+ID F ID
+ID G ID
+ID H ID
+ID I ID
+ID J ID
+ID K ID
+ID L ID
+ID M ID
+ID N ID
+ID O ID
+ID P ID
+ID Q ID
+ID R ID
+ID S ID
+ID T ID
+ID U ID
+ID V ID
+ID W ID
+ID X ID
+ID Y ID
+ID Z ID
+ID 0 ID
+ID 1 ID
+ID 2 ID
+ID 3 ID
+ID 4 ID
+ID 5 ID
+ID 6 ID
+ID 7 ID
+ID 8 ID
+ID 9 ID

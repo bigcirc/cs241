@@ -1,0 +1,78 @@
+lis $4
+.word 4
+lis $5
+.word 1
+lw $3,0($1)
+sub $2,$2,$5
+beq $2,$5,return
+bne $2,$5,return1
+return:
+jr $31
+return1:	
+add $6,$5,$0	
+loop:
+mult $4,$6
+mflo $10
+add $7,$10,$1
+lw $7,0($7)
+slt $8,$7,$3
+beq $8,$5,plus
+add $3,$7,$0
+plus:
+add $6,$6,$5
+bne $2,$0,loop
+jr $31
+
+
+
+
+
+;lis $9				
+;.word 4
+;beq $2,$4,return
+;bne $2,$4,return1
+;return:	
+;lw $3,0($1)
+;jr $31
+;return1:	
+;sub $2,$2,$4
+;add $6,$1,$5
+;loop:
+;loop1:	
+;lw $7,0($1)	
+;lw $8,0($6)	
+;slt $10,$7,$8	
+;beq $10,$0,less    		;1>6 to less
+;sub $2,$2,$4
+;add $1,$6,$9
+;add $9,$9,$5
+;beq $2,$0,continue
+;bne $2,$0,loop
+;continue:
+;lw $3,0($6)
+;jr $31
+;less:
+;sub $2,$2,$4
+;add $10,$1,$5
+;beq $6,$10,re
+;bne $6,$10,re1
+;re:
+;add $6,$5,$1
+;re1:
+;add $6,$10,$0
+;sub $9,$9,$5
+;beq $2,$0,continue2
+;bne $2,$0,loop1
+;continue2:
+;lw $3,0($1)
+;jr $31
+
+
+
+
+
+
+
+
+
+

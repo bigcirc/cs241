@@ -1,0 +1,49 @@
+4
+a
+b
+c
+d
+8
+start
+a
+b
+c
+d
+else
+b1
+a1
+start
+1
+d
+32
+start a a
+start b else
+start c else
+start d else
+else a a
+else b else
+else c else
+else d else
+a b b
+a a a
+a c a
+a d a
+b c b a else
+b b else
+b d else
+c a a1
+c b else
+c c else
+c d else
+a1 b b1
+a1 a else
+a1 c else
+a1 d else
+b1 d d
+b1 a else
+b1 c else
+b1 b else
+d a d
+d b d
+d c d
+d d d

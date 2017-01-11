@@ -1,0 +1,31 @@
+2
+0
+1
+8
+start
+zero
+1m21m3
+0m22m3
+0m31m2
+1m22m3
+0m21m3
+0m20m3
+start
+2
+1m21m3
+1m22m3
+14
+start 0 zero
+start 0 1m21m3
+1m21m3 0 0m22m3
+0m22m3 1 1m22m3
+1m22m3 1 1m22m3
+0m22m3 0 0m21m3
+0m21m3 0 0m22m3
+1m22m3 0 0m21m3
+0m21m3 1 0m31m2
+1m21m3 1 0m31m2
+0m31m2 1 1m21m3
+0m31m2 0 0m20m3
+0m20m3 0 0m20m3
+0m20m3 1 1m21m3

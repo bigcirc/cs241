@@ -1,0 +1,789 @@
+Bstart BOF procedures EOF
+BOF BOF
+procedures procedure procedures
+procedure INT ID LPAREN params RPAREN LBRACE dcls statements RETURN expr SEMI RBRACE
+I1;2cNT int
+ID foo
+LPAREN (
+params
+RPAREN )
+LBRACE {
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls dcls dcl BECOMES NUM SEMI
+dcls
+dcl type ID
+type INT
+INT int
+ID v1
+BECOMES =
+NUM 3
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v2
+BECOMES =
+NUM 10
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v3
+BECOMES =
+NUM 17
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v4
+BECOMES =
+NUM 24
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v5
+BECOMES =
+NUM 31
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v6
+BECOMES =
+NUM 38
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v7
+BECOMES =
+NUM 45
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v8
+BECOMES =
+NUM 52
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v9
+BECOMES =
+NUM 59
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v10
+BECOMES =
+NUM 66
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v11
+BECOMES =
+NUM 73
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v12
+BECOMES =
+NUM 80
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v13
+BECOMES =
+NUM 87
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v14
+BECOMES =
+NUM 94
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v15
+BECOMES =
+NUM 101
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v16
+BECOMES =
+NUM 108
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v17
+BECOMES =
+NUM 115
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v18
+BECOMES =
+NUM 122
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v19
+BECOMES =
+NUM 129
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v20
+BECOMES =
+NUM 136
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v21
+BECOMES =
+NUM 143
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v22
+BECOMES =
+NUM 150
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v23
+BECOMES =
+NUM 157
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v24
+BECOMES =
+NUM 164
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v25
+BECOMES =
+NUM 171
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v26
+BECOMES =
+NUM 178
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v27
+BECOMES =
+NUM 185
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v28
+BECOMES =
+NUM 192
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v29
+BECOMES =
+NUM 199
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v30
+BECOMES =
+NUM 206
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v31
+BECOMES =
+NUM 213
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v32
+BECOMES =
+NUM 220
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v33
+BECOMES =
+NUM 227
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v34
+BECOMES =
+NUM 234
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v35
+BECOMES =
+NUM 241
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v36
+BECOMES =
+NUM 248
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v37
+BECOMES =
+NUM 255
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v38
+BECOMES =
+NUM 262
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v39
+BECOMES =
+NUM 269
+SEMI ;
+dcl type ID
+type INT
+INT int
+ID v40
+BECOMES =
+NUM 276
+SEMI ;
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements statements statement
+statements
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v1
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v4
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v9
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v10
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v17
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v18
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v5
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v6
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v7
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v11
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v19
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v27
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v2
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v3
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v28
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v29
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v33
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v34
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v35
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v30
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v31
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v39
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v40
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v32
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v25
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v36
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v37
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v12
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v13
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v15
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v8
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v20
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v23
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v24
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v21
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v14
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v16
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v22
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v26
+RPAREN )
+SEMI ;
+statement PRINTLN LPAREN expr RPAREN SEMI
+PRINTLN println
+LPAREN (
+expr term
+term factor
+factor ID
+ID v38
+RPAREN )
+SEMI ;
+RETURN return
+expr expr MINUS term
+expr expr MINUS term
+expr term
+term factor
+factor ID
+ID v32
+MINUS -
+term term SLASH factor
+term term STAR factor
+term factor
+factor ID
+ID v37
+STAR *
+factor ID
+ID v40
+SLASH /
+factor ID
+ID v1
+MINUS -
+term term STAR factor
+term factor
+factor ID
+ID v5
+STAR *
+factor ID
+ID v8
+SEMI ;
+RBRACE }
+procedures main
+main INT WAIN LPAREN dcl COMMA dcl RPAREN LBRACE dcls statements RETURN expr SEMI RBRACE
+INT int
+WAIN wain
+LPAREN (
+dcl type ID
+type INT
+INT int
+ID a
+COMMA ,
+dcl type ID
+type INT
+INT int
+ID b
+RPAREN )
+LBRACE {
+dcls
+statements
+RETURN return
+expr term
+term factor
+factor ID LPAREN RPAREN
+ID foo
+LPAREN (
+RPAREN )
+SEMI ;
+RBRACE }
+EOF EOF

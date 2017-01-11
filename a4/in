@@ -1,0 +1,14 @@
+jr $4
+bne $9,$5,9
+jalr $22
+add $6,$18,$30
+mult $6,$2  
+mflo $5
+lis $1
+.word 4
+sw $3,88($14)
+beq $12,$8,-1
+.word 12
+label:
+divu $5,$3 
+.word 77

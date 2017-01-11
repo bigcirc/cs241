@@ -1,0 +1,60 @@
+lis $4
+.word 4
+lis $5
+.word 2
+lis $6
+.word 1
+lis $12
+.word 1
+lis $10
+.word -1
+lis $13
+.word 0
+lis $20
+.word max
+lis $25
+.word recur
+
+add $3,$6,$0
+add $7,$0,$0
+add $8,$0,$0
+add $14,$1,$4
+add $15,$14,$4
+add $27,$0,$0
+add $28,$0,$0	
+recur:
+lw $16,0($14)
+lw $17,0($15)
+bne $16,$10,no
+bne $17,$10,no1
+jr $20
+no:
+bne $17,$10,no1	
+add $7,$7,$6
+mult $4,$16
+mflo $20
+add $14,$1,$20
+add $14,$14,$4
+add $15,$14,$4
+beq $0,$0,recur
+no1:
+add $8,$8,$6
+mult $4,$17
+mflo $21
+add $14,$1,$21
+add $15,$14,$4
+beq $0,$0,recur
+	
+
+max:
+beq $7,$0,cont
+cont:
+beq $8,$0,cont1
+slt $9,$8,$7
+beq $6,$9,right
+add $3,$8,$0
+cont1:	
+jr $31
+right:
+add $3,$7,$0
+jr $31

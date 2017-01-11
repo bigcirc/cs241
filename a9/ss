@@ -1,0 +1,1 @@
+cat test | ./p | ./s | ./a.out 

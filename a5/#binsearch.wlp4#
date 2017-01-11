@@ -1,0 +1,25 @@
+//
+// bin search
+//
+
+
+int binsearch(int* a,int size,int value){
+    int state= 0;
+    int mid=0;
+    state = 0-1;
+    if(size!=0){
+        while(size !=0){
+    		 mid = *(a+(size/2));
+		  if(mid < value){
+		  	    a = &(mid);	
+			    	    size = size - size/2;
+		   }else{
+		     if(mid> value){
+		     	       size = size/2;	
+	             }else{
+		     		state = mid;
+	              }
+     }
+     return state;
+}
+
